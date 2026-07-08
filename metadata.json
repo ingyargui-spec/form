@@ -1,0 +1,6 @@
+{
+  "name": "Réorientation 2026",
+  "description": "Sophisticated Algerian university reorientation form integrated with Google Sheets, Google Apps Script, and real-time choice selection data validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
